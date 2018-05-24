@@ -8,8 +8,6 @@
 """Hidden Markov Models in Python with scikit-learn like API"""
 
 import sys
-import setuptools
-from distutils.core import setup
 
 try:
     from numpy.distutils.misc_util import get_info
